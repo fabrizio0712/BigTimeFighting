@@ -1,0 +1,1964 @@
+fileFormatVersion: 2
+guid: caf2beacb8dc5d04f9280a24ff55038e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6185100528294334967
+    second: KenSpritesheet_0
+  - first:
+      213: 3791776894616236463
+    second: KenSpritesheet_1
+  - first:
+      213: -3618084842902758143
+    second: KenSpritesheet_2
+  - first:
+      213: 346803106995178939
+    second: KenSpritesheet_3
+  - first:
+      213: -4004296370406173950
+    second: KenSpritesheet_4
+  - first:
+      213: 2552615671541813940
+    second: KenSpritesheet_5
+  - first:
+      213: 6484514866642224772
+    second: KenSpritesheet_6
+  - first:
+      213: -8522967051346100271
+    second: KenSpritesheet_7
+  - first:
+      213: -3120972376798837920
+    second: KenSpritesheet_8
+  - first:
+      213: -4440068744521108554
+    second: KenSpritesheet_9
+  - first:
+      213: -5535633538414731889
+    second: KenSpritesheet_10
+  - first:
+      213: -1117989553318641147
+    second: KenSpritesheet_11
+  - first:
+      213: 8226149647796842995
+    second: KenSpritesheet_12
+  - first:
+      213: 4789674988588962769
+    second: KenSpritesheet_13
+  - first:
+      213: 157938912561527020
+    second: KenSpritesheet_14
+  - first:
+      213: -3206838417417199537
+    second: KenSpritesheet_15
+  - first:
+      213: -130752973781974405
+    second: KenSpritesheet_16
+  - first:
+      213: 5197751916823180554
+    second: KenSpritesheet_17
+  - first:
+      213: 4632158451602837861
+    second: KenSpritesheet_18
+  - first:
+      213: -4813367108455029254
+    second: KenSpritesheet_19
+  - first:
+      213: 8456362423585631837
+    second: KenSpritesheet_20
+  - first:
+      213: -4045107329571958929
+    second: KenSpritesheet_21
+  - first:
+      213: -7743088601759689620
+    second: KenSpritesheet_22
+  - first:
+      213: 6888640909470326389
+    second: KenSpritesheet_23
+  - first:
+      213: 7448974478294550386
+    second: KenSpritesheet_24
+  - first:
+      213: 203394506249241980
+    second: KenSpritesheet_25
+  - first:
+      213: 1764200886629902523
+    second: KenSpritesheet_26
+  - first:
+      213: -6549005493015247982
+    second: KenSpritesheet_27
+  - first:
+      213: -6148188915231221326
+    second: KenSpritesheet_28
+  - first:
+      213: 5645119875818019225
+    second: KenSpritesheet_29
+  - first:
+      213: -9062297474979260415
+    second: KenSpritesheet_30
+  - first:
+      213: 7812972059038890393
+    second: KenSpritesheet_31
+  - first:
+      213: -2233237624473864445
+    second: KenSpritesheet_32
+  - first:
+      213: 1413044312996523788
+    second: KenSpritesheet_33
+  - first:
+      213: -1857007322296907579
+    second: KenSpritesheet_34
+  - first:
+      213: -4069885585482322258
+    second: KenSpritesheet_35
+  - first:
+      213: 6975821441700719480
+    second: KenSpritesheet_36
+  - first:
+      213: 2462845127261285097
+    second: KenSpritesheet_37
+  - first:
+      213: 7271532657873452226
+    second: KenSpritesheet_38
+  - first:
+      213: 8598290896842160449
+    second: KenSpritesheet_39
+  - first:
+      213: -2955231864473184170
+    second: KenSpritesheet_40
+  - first:
+      213: -2758187787803961228
+    second: KenSpritesheet_41
+  - first:
+      213: -5798120607682201404
+    second: KenSpritesheet_42
+  - first:
+      213: -8906419173617190564
+    second: KenSpritesheet_43
+  - first:
+      213: -390196285434270631
+    second: KenSpritesheet_44
+  - first:
+      213: 2689402695258725491
+    second: KenSpritesheet_45
+  - first:
+      213: -2702012562443245120
+    second: KenSpritesheet_46
+  - first:
+      213: 2917515017994748525
+    second: KenSpritesheet_47
+  - first:
+      213: 8598999661150275559
+    second: KenSpritesheet_48
+  - first:
+      213: -1067586058736478040
+    second: KenSpritesheet_49
+  - first:
+      213: -2006021602403670655
+    second: KenSpritesheet_50
+  - first:
+      213: -8668110185923137040
+    second: KenSpritesheet_51
+  - first:
+      213: 5275258807380298030
+    second: KenSpritesheet_52
+  - first:
+      213: 654965961695967429
+    second: KenSpritesheet_53
+  - first:
+      213: 2376109500214857070
+    second: KenSpritesheet_54
+  - first:
+      213: 5252739139424497372
+    second: KenSpritesheet_55
+  - first:
+      213: 756069832442997003
+    second: KenSpritesheet_56
+  - first:
+      213: 4197609538664899266
+    second: KenSpritesheet_57
+  - first:
+      213: 6515256828319698135
+    second: KenSpritesheet_58
+  - first:
+      213: -168850867793120847
+    second: KenSpritesheet_59
+  - first:
+      213: 5092328262134739575
+    second: KenSpritesheet_60
+  - first:
+      213: -5528205177031355205
+    second: KenSpritesheet_61
+  - first:
+      213: -6082465045442779063
+    second: KenSpritesheet_62
+  - first:
+      213: 3955518143543966239
+    second: KenSpritesheet_63
+  - first:
+      213: -6781478457859145968
+    second: KenSpritesheet_64
+  - first:
+      213: -8464709617836957229
+    second: KenSpritesheet_65
+  - first:
+      213: 3085502969410979705
+    second: KenSpritesheet_66
+  - first:
+      213: -2550366521337937477
+    second: KenSpritesheet_67
+  - first:
+      213: -1918829416216406089
+    second: KenSpritesheet_68
+  - first:
+      213: 6005458632075558205
+    second: KenSpritesheet_69
+  - first:
+      213: -4190179505727729789
+    second: KenSpritesheet_70
+  - first:
+      213: -2615786003506762575
+    second: KenSpritesheet_71
+  - first:
+      213: 8519176506553788197
+    second: KenSpritesheet_72
+  - first:
+      213: 875472035102908581
+    second: KenSpritesheet_73
+  - first:
+      213: 6942968284614544248
+    second: KenSpritesheet_74
+  - first:
+      213: -6224899581085067077
+    second: KenSpritesheet_75
+  - first:
+      213: -563186918439261843
+    second: KenSpritesheet_76
+  - first:
+      213: -1562642613741996353
+    second: KenSpritesheet_77
+  - first:
+      213: -7007146742815792291
+    second: KenSpritesheet_78
+  - first:
+      213: -5047651344897166790
+    second: KenSpritesheet_79
+  - first:
+      213: -485021002311799163
+    second: KenSpritesheet_80
+  - first:
+      213: -545114272808942913
+    second: KenSpritesheet_81
+  - first:
+      213: -6915482211309105906
+    second: KenSpritesheet_82
+  - first:
+      213: -190631805052846583
+    second: KenSpritesheet_83
+  - first:
+      213: 7364288803738837214
+    second: KenSpritesheet_84
+  - first:
+      213: 7470151520355798747
+    second: KenSpritesheet_85
+  - first:
+      213: -4547074971235970156
+    second: KenSpritesheet_86
+  - first:
+      213: 6809813873847215725
+    second: KenSpritesheet_87
+  - first:
+      213: 1067177154940395345
+    second: KenSpritesheet_88
+  - first:
+      213: -5661025290299021123
+    second: KenSpritesheet_89
+  - first:
+      213: 5425638100603946887
+    second: KenSpritesheet_90
+  - first:
+      213: -2657310530236837286
+    second: KenSpritesheet_91
+  - first:
+      213: -1845597339244323689
+    second: KenSpritesheet_92
+  - first:
+      213: 7504340717421063222
+    second: KenSpritesheet_93
+  - first:
+      213: -745578626331853523
+    second: KenSpritesheet_94
+  - first:
+      213: -8700850936977011431
+    second: KenSpritesheet_95
+  - first:
+      213: 7691657678012574606
+    second: KenSpritesheet_96
+  - first:
+      213: 5682862664107554114
+    second: KenSpritesheet_97
+  - first:
+      213: -222624184919727404
+    second: KenSpritesheet_98
+  - first:
+      213: 578306298034313221
+    second: KenSpritesheet_99
+  - first:
+      213: -916542178721067279
+    second: KenSpritesheet_100
+  - first:
+      213: 1830556339570107220
+    second: KenSpritesheet_101
+  - first:
+      213: -6359247644939306295
+    second: KenSpritesheet_102
+  - first:
+      213: -5007299208857932977
+    second: KenSpritesheet_103
+  - first:
+      213: 7764487563192999732
+    second: KenSpritesheet_104
+  - first:
+      213: -209754245430576318
+    second: KenSpritesheet_105
+  - first:
+      213: -914499949687503363
+    second: KenSpritesheet_106
+  - first:
+      213: -6700421399207880352
+    second: KenSpritesheet_107
+  - first:
+      213: -3091476101151606746
+    second: KenSpritesheet_108
+  - first:
+      213: -5820881328403455044
+    second: KenSpritesheet_109
+  - first:
+      213: -7075697185016350649
+    second: KenSpritesheet_110
+  - first:
+      213: 1207718012601414115
+    second: KenSpritesheet_111
+  - first:
+      213: -2918247607180533961
+    second: KenSpritesheet_112
+  - first:
+      213: -597186803696374103
+    second: KenSpritesheet_113
+  - first:
+      213: -6476022633216443254
+    second: KenSpritesheet_114
+  - first:
+      213: -2355411583861567259
+    second: KenSpritesheet_115
+  - first:
+      213: 3214704347824536457
+    second: KenSpritesheet_116
+  - first:
+      213: 5523813168071271900
+    second: KenSpritesheet_117
+  - first:
+      213: -470819032719634889
+    second: KenSpritesheet_118
+  - first:
+      213: 866880543480032800
+    second: KenSpritesheet_119
+  - first:
+      213: 4874221829009043748
+    second: KenSpritesheet_120
+  - first:
+      213: -5888755028100534205
+    second: KenSpritesheet_121
+  - first:
+      213: 3187247348889913300
+    second: KenSpritesheet_122
+  - first:
+      213: -3860637871975386705
+    second: KenSpritesheet_123
+  - first:
+      213: 3667555155626114277
+    second: KenSpritesheet_124
+  - first:
+      213: -626788315268949426
+    second: KenSpritesheet_125
+  - first:
+      213: -7968389373952653316
+    second: KenSpritesheet_126
+  - first:
+      213: 8887834218713429747
+    second: KenSpritesheet_127
+  - first:
+      213: 99592618004436132
+    second: KenSpritesheet_128
+  - first:
+      213: -2617818092735056330
+    second: KenSpritesheet_129
+  - first:
+      213: 191019625588286878
+    second: KenSpritesheet_130
+  - first:
+      213: 6339945680666177142
+    second: KenSpritesheet_131
+  - first:
+      213: 3314335859013665155
+    second: KenSpritesheet_132
+  - first:
+      213: -7850234795819854877
+    second: KenSpritesheet_133
+  - first:
+      213: -7031515295983035315
+    second: KenSpritesheet_134
+  - first:
+      213: -4165002855670044345
+    second: KenSpritesheet_135
+  - first:
+      213: 4717258327042806311
+    second: KenSpritesheet_136
+  - first:
+      213: -7720173709591767114
+    second: KenSpritesheet_137
+  - first:
+      213: -7030846641093102123
+    second: KenSpritesheet_138
+  - first:
+      213: -3553156779855276345
+    second: KenSpritesheet_139
+  - first:
+      213: -646243313913779292
+    second: KenSpritesheet_140
+  - first:
+      213: -7215888424315304301
+    second: KenSpritesheet_141
+  - first:
+      213: 8998702170819639516
+    second: KenSpritesheet_142
+  - first:
+      213: 7427511516981908899
+    second: KenSpritesheet_143
+  - first:
+      213: 2408529767370352564
+    second: KenSpritesheet_144
+  - first:
+      213: -5980346803058918076
+    second: KenSpritesheet_145
+  - first:
+      213: -2632183234479973068
+    second: KenSpritesheet_146
+  - first:
+      213: -8126388901270080679
+    second: KenSpritesheet_147
+  - first:
+      213: 4800150455223399561
+    second: KenSpritesheet_148
+  - first:
+      213: -4948520096516507585
+    second: KenSpritesheet_149
+  - first:
+      213: -3980979538003003745
+    second: KenSpritesheet_150
+  - first:
+      213: 1857610355478112245
+    second: KenSpritesheet_151
+  - first:
+      213: -5298604709529431930
+    second: KenSpritesheet_152
+  - first:
+      213: 1526820637799132032
+    second: KenSpritesheet_153
+  - first:
+      213: -7450859461241503688
+    second: KenSpritesheet_154
+  - first:
+      213: -971610526926681844
+    second: KenSpritesheet_155
+  - first:
+      213: -1388713438322086645
+    second: KenSpritesheet_156
+  - first:
+      213: -578617905518954680
+    second: KenSpritesheet_157
+  - first:
+      213: 6483766922336772518
+    second: KenSpritesheet_158
+  - first:
+      213: -8576781161105938918
+    second: KenSpritesheet_159
+  - first:
+      213: 9107711556026196431
+    second: KenSpritesheet_160
+  - first:
+      213: -1108398648159874849
+    second: KenSpritesheet_161
+  - first:
+      213: 4518198656892280207
+    second: KenSpritesheet_162
+  - first:
+      213: 8425888929136760770
+    second: KenSpritesheet_163
+  - first:
+      213: -5428652967981652859
+    second: KenSpritesheet_164
+  - first:
+      213: -5199900994886820810
+    second: KenSpritesheet_165
+  - first:
+      213: 4486538413491907762
+    second: KenSpritesheet_166
+  - first:
+      213: -7361134936647431667
+    second: KenSpritesheet_167
+  - first:
+      213: 3859554080590690537
+    second: KenSpritesheet_168
+  - first:
+      213: 4383436189529357830
+    second: KenSpritesheet_169
+  - first:
+      213: 3856444429857413727
+    second: KenSpritesheet_170
+  - first:
+      213: 6422870884763449761
+    second: KenSpritesheet_171
+  - first:
+      213: 3705004005003986263
+    second: KenSpritesheet_172
+  - first:
+      213: 8569816674382803078
+    second: KenSpritesheet_173
+  - first:
+      213: 7329352108642917526
+    second: KenSpritesheet_174
+  - first:
+      213: -1046223888379866633
+    second: KenSpritesheet_175
+  - first:
+      213: -5269140131039350951
+    second: KenSpritesheet_176
+  - first:
+      213: 6664506741399518368
+    second: KenSpritesheet_177
+  - first:
+      213: 8825506749180411954
+    second: KenSpritesheet_178
+  - first:
+      213: -2369540983625831732
+    second: KenSpritesheet_179
+  - first:
+      213: -7956576137591492092
+    second: KenSpritesheet_180
+  - first:
+      213: -4941468943487209840
+    second: KenSpritesheet_181
+  - first:
+      213: 4527253897851328890
+    second: KenSpritesheet_182
+  - first:
+      213: 3360684239121437310
+    second: KenSpritesheet_183
+  - first:
+      213: -3215741633259693694
+    second: KenSpritesheet_184
+  - first:
+      213: -5389209090750854347
+    second: KenSpritesheet_185
+  - first:
+      213: 2397594337474838367
+    second: KenSpritesheet_186
+  - first:
+      213: 1447455958540391537
+    second: KenSpritesheet_187
+  - first:
+      213: -2529595262347803854
+    second: KenSpritesheet_188
+  - first:
+      213: 8310844968876155415
+    second: KenSpritesheet_189
+  - first:
+      213: 8910814901266743763
+    second: KenSpritesheet_190
+  - first:
+      213: -7026323963216274529
+    second: KenSpritesheet_191
+  - first:
+      213: 1649769589670980434
+    second: KenSpritesheet_192
+  - first:
+      213: 2491721133414412124
+    second: KenSpritesheet_193
+  - first:
+      213: -8628584038829436581
+    second: KenSpritesheet_194
+  - first:
+      213: -8080261920322197228
+    second: KenSpritesheet_195
+  - first:
+      213: -7304159756995897078
+    second: KenSpritesheet_196
+  - first:
+      213: 8364853927021531081
+    second: KenSpritesheet_197
+  - first:
+      213: 2285603193899155995
+    second: KenSpritesheet_198
+  - first:
+      213: 4721724177421423190
+    second: KenSpritesheet_199
+  - first:
+      213: 2348057474306132087
+    second: KenSpritesheet_200
+  - first:
+      213: -6362840238534818851
+    second: KenSpritesheet_201
+  - first:
+      213: -1916897468265608080
+    second: KenSpritesheet_202
+  - first:
+      213: 1894814221321975076
+    second: KenSpritesheet_203
+  - first:
+      213: 1589849513839722603
+    second: KenSpritesheet_204
+  - first:
+      213: 7246829597011507486
+    second: KenSpritesheet_205
+  - first:
+      213: -7236013105983051112
+    second: KenSpritesheet_206
+  - first:
+      213: -2383275015281112804
+    second: KenSpritesheet_207
+  - first:
+      213: -7636141071425143639
+    second: KenSpritesheet_208
+  - first:
+      213: 6806641469887606525
+    second: KenSpritesheet_209
+  - first:
+      213: 1094407801301389637
+    second: KenSpritesheet_210
+  - first:
+      213: 2793752179117163509
+    second: KenSpritesheet_211
+  - first:
+      213: 8159373860575544363
+    second: KenSpritesheet_212
+  - first:
+      213: 9197116575304167729
+    second: KenSpritesheet_213
+  - first:
+      213: -7541538145301341577
+    second: KenSpritesheet_214
+  - first:
+      213: 1374527354127108213
+    second: KenSpritesheet_215
+  - first:
+      213: 853467051206613881
+    second: KenSpritesheet_216
+  - first:
+      213: -5480001423852901337
+    second: KenSpritesheet_217
+  - first:
+      213: -2544465192230681136
+    second: KenSpritesheet_218
+  - first:
+      213: 7318978512887968345
+    second: KenSpritesheet_219
+  - first:
+      213: -2494211029434414608
+    second: KenSpritesheet_220
+  - first:
+      213: -1310192793668987619
+    second: KenSpritesheet_221
+  - first:
+      213: 9083669737866957536
+    second: KenSpritesheet_222
+  - first:
+      213: 1082745470788940593
+    second: KenSpritesheet_223
+  - first:
+      213: -4129741776381488969
+    second: KenSpritesheet_224
+  - first:
+      213: 1390326624736844564
+    second: KenSpritesheet_225
+  - first:
+      213: -8132255007749683349
+    second: KenSpritesheet_226
+  - first:
+      213: 4405556319633485472
+    second: KenSpritesheet_227
+  - first:
+      213: -7371294970102302226
+    second: KenSpritesheet_228
+  - first:
+      213: -6586832464377523358
+    second: KenSpritesheet_229
+  - first:
+      213: 776380262189487209
+    second: KenSpritesheet_230
+  - first:
+      213: -9034749409552631478
+    second: KenSpritesheet_231
+  - first:
+      213: -4478994490356921911
+    second: KenSpritesheet_232
+  - first:
+      213: 8506030946112357019
+    second: KenSpritesheet_233
+  - first:
+      213: -1899180838184162909
+    second: KenSpritesheet_234
+  - first:
+      213: -2055428745246335350
+    second: KenSpritesheet_235
+  - first:
+      213: 2132770515918766669
+    second: KenSpritesheet_236
+  - first:
+      213: -3153543952469871338
+    second: KenSpritesheet_237
+  - first:
+      213: -7486972584273343142
+    second: KenSpritesheet_238
+  - first:
+      213: -5563090099311906347
+    second: KenSpritesheet_239
+  - first:
+      213: 2160007864361235620
+    second: KenSpritesheet_240
+  - first:
+      213: 1590471602762293661
+    second: KenSpritesheet_241
+  - first:
+      213: 3988506995232774300
+    second: KenSpritesheet_242
+  - first:
+      213: -5472472461619132983
+    second: KenSpritesheet_243
+  - first:
+      213: -7378558826179626294
+    second: KenSpritesheet_244
+  - first:
+      213: 5005105069632094848
+    second: KenSpritesheet_245
+  - first:
+      213: 1231886708808450267
+    second: KenSpritesheet_246
+  - first:
+      213: 4979426720978079967
+    second: KenSpritesheet_247
+  - first:
+      213: -5342838455967851385
+    second: KenSpritesheet_248
+  - first:
+      213: 4443755371191740007
+    second: KenSpritesheet_249
+  - first:
+      213: 1490367244005268998
+    second: KenSpritesheet_250
+  - first:
+      213: -3171879184188667853
+    second: KenSpritesheet_251
+  - first:
+      213: 3594266067566206183
+    second: KenSpritesheet_252
+  - first:
+      213: 402741322309255268
+    second: KenSpritesheet_253
+  - first:
+      213: 6809707419648292100
+    second: KenSpritesheet_254
+  - first:
+      213: -5368665937608390594
+    second: KenSpritesheet_255
+  - first:
+      213: -3504458431065037937
+    second: KenSpritesheet_256
+  - first:
+      213: 1831310796086012392
+    second: KenSpritesheet_257
+  - first:
+      213: 3240953688660979091
+    second: KenSpritesheet_258
+  - first:
+      213: -331035588106973490
+    second: KenSpritesheet_259
+  - first:
+      213: 8132718769359870153
+    second: KenSpritesheet_260
+  - first:
+      213: -6349474891690575081
+    second: KenSpritesheet_261
+  - first:
+      213: 3941319917474749687
+    second: KenSpritesheet_262
+  - first:
+      213: -4277268242763144795
+    second: KenSpritesheet_263
+  - first:
+      213: -7943630571427573201
+    second: KenSpritesheet_264
+  - first:
+      213: 4891482224794884032
+    second: KenSpritesheet_265
+  - first:
+      213: 1924141548231707046
+    second: KenSpritesheet_266
+  - first:
+      213: -3368556940233958693
+    second: KenSpritesheet_267
+  - first:
+      213: -1443353634400765338
+    second: KenSpritesheet_268
+  - first:
+      213: 9152829883961143841
+    second: KenSpritesheet_269
+  - first:
+      213: 7751806965245844245
+    second: KenSpritesheet_270
+  - first:
+      213: 8228401260805150141
+    second: KenSpritesheet_271
+  - first:
+      213: 1996546736274795397
+    second: KenSpritesheet_272
+  - first:
+      213: -1491006091747691320
+    second: KenSpritesheet_273
+  - first:
+      213: 1172975849768886871
+    second: KenSpritesheet_274
+  - first:
+      213: 4061523537260522452
+    second: KenSpritesheet_275
+  - first:
+      213: -7425172769211190538
+    second: KenSpritesheet_276
+  - first:
+      213: -2874074482233859202
+    second: KenSpritesheet_277
+  - first:
+      213: 6736474939349193440
+    second: KenSpritesheet_278
+  - first:
+      213: 1990678565284846326
+    second: KenSpritesheet_279
+  - first:
+      213: 2729151106329114561
+    second: KenSpritesheet_280
+  - first:
+      213: -6371760356133268220
+    second: KenSpritesheet_281
+  - first:
+      213: 7323405233732120022
+    second: KenSpritesheet_282
+  - first:
+      213: 8830495210503481591
+    second: KenSpritesheet_283
+  - first:
+      213: 6529614949196309997
+    second: KenSpritesheet_284
+  - first:
+      213: -7302649710232718787
+    second: KenSpritesheet_285
+  - first:
+      213: -6343602588240670698
+    second: KenSpritesheet_286
+  - first:
+      213: -9036237554381632111
+    second: KenSpritesheet_287
+  - first:
+      213: 4444329728352570731
+    second: KenSpritesheet_288
+  - first:
+      213: -6009062119628066590
+    second: KenSpritesheet_289
+  - first:
+      213: 8122077982570093587
+    second: KenSpritesheet_290
+  - first:
+      213: 5649835906770049447
+    second: KenSpritesheet_291
+  - first:
+      213: -7309917335512843663
+    second: KenSpritesheet_292
+  - first:
+      213: 9192116424429179945
+    second: KenSpritesheet_293
+  - first:
+      213: 6494821950534664276
+    second: KenSpritesheet_294
+  - first:
+      213: 3285006413787205057
+    second: KenSpritesheet_295
+  - first:
+      213: -1190144547106882468
+    second: KenSpritesheet_296
+  - first:
+      213: 4073079578673462138
+    second: KenSpritesheet_297
+  - first:
+      213: 9204337041229220470
+    second: KenSpritesheet_298
+  - first:
+      213: 6020429115140004462
+    second: KenSpritesheet_299
+  - first:
+      213: 6448510184265994268
+    second: KenSpritesheet_300
+  - first:
+      213: -760821941172418203
+    second: KenSpritesheet_301
+  - first:
+      213: 6148334201652513963
+    second: KenSpritesheet_302
+  - first:
+      213: 2206623273265623316
+    second: KenSpritesheet_303
+  - first:
+      213: -4021709671782135455
+    second: KenSpritesheet_304
+  - first:
+      213: -6593052260363697510
+    second: KenSpritesheet_305
+  - first:
+      213: 4548602526079893626
+    second: KenSpritesheet_306
+  - first:
+      213: -4673074626673861753
+    second: KenSpritesheet_307
+  - first:
+      213: -1227096860465624203
+    second: KenSpritesheet_308
+  - first:
+      213: 5719682244375725838
+    second: KenSpritesheet_309
+  - first:
+      213: 4097853891550940151
+    second: KenSpritesheet_310
+  - first:
+      213: 4178123986961049919
+    second: KenSpritesheet_311
+  - first:
+      213: -5374820393835167282
+    second: KenSpritesheet_312
+  - first:
+      213: -4043005954564737302
+    second: KenSpritesheet_313
+  - first:
+      213: 7843734964468256812
+    second: KenSpritesheet_314
+  - first:
+      213: 1654092395757367067
+    second: KenSpritesheet_315
+  - first:
+      213: 785986257707029387
+    second: KenSpritesheet_316
+  - first:
+      213: -1429944991735045617
+    second: KenSpritesheet_317
+  - first:
+      213: 1554155118132996950
+    second: KenSpritesheet_318
+  - first:
+      213: 5149571923518101561
+    second: KenSpritesheet_319
+  - first:
+      213: -7980988214120141258
+    second: KenSpritesheet_320
+  - first:
+      213: 3038171683581481387
+    second: KenSpritesheet_321
+  - first:
+      213: -1919375956750555787
+    second: KenSpritesheet_322
+  - first:
+      213: 7491329098856306839
+    second: KenSpritesheet_323
+  - first:
+      213: -7517867218183976801
+    second: KenSpritesheet_324
+  - first:
+      213: 250220808081284898
+    second: KenSpritesheet_325
+  - first:
+      213: -4893225672550644533
+    second: KenSpritesheet_326
+  - first:
+      213: 3155423249597471840
+    second: KenSpritesheet_327
+  - first:
+      213: -873541855728432200
+    second: KenSpritesheet_328
+  - first:
+      213: 3123253045539132535
+    second: KenSpritesheet_329
+  - first:
+      213: -7834272098331114264
+    second: KenSpritesheet_330
+  - first:
+      213: -519611459247660582
+    second: KenSpritesheet_331
+  - first:
+      213: -403096398567812443
+    second: KenSpritesheet_332
+  - first:
+      213: 1471147759434402302
+    second: KenSpritesheet_333
+  - first:
+      213: 6645436741626173237
+    second: KenSpritesheet_334
+  - first:
+      213: 4897696602234233738
+    second: KenSpritesheet_335
+  - first:
+      213: -8002324708350155920
+    second: KenSpritesheet_336
+  - first:
+      213: 3078331374017953068
+    second: KenSpritesheet_337
+  - first:
+      213: 6473050630440612511
+    second: KenSpritesheet_338
+  - first:
+      213: -277108505509765955
+    second: KenSpritesheet_339
+  - first:
+      213: -7916742621256503870
+    second: KenSpritesheet_340
+  - first:
+      213: 2506733371479680948
+    second: KenSpritesheet_341
+  - first:
+      213: 3410229604992763988
+    second: KenSpritesheet_342
+  - first:
+      213: 3494355641795289604
+    second: KenSpritesheet_343
+  - first:
+      213: -3378010736156398542
+    second: KenSpritesheet_344
+  - first:
+      213: -6161965674866843787
+    second: KenSpritesheet_345
+  - first:
+      213: -263557479906024767
+    second: KenSpritesheet_346
+  - first:
+      213: -1521239261071386272
+    second: KenSpritesheet_347
+  - first:
+      213: -7318040460863851197
+    second: KenSpritesheet_348
+  - first:
+      213: 900635097254338931
+    second: KenSpritesheet_349
+  - first:
+      213: 3800700240052876979
+    second: KenSpritesheet_350
+  - first:
+      213: -8433601458311714897
+    second: KenSpritesheet_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KenSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 894
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa72d142824d5fa80800000000000000
+      internalID: -8433601458311714897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 894
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa17227fef81f9430800000000000000
+      internalID: 3791776894616236463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 894
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d5e8b310bf9cdc0800000000000000
+      internalID: -3618084842902758143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 894
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd037f969710d400800000000000000
+      internalID: 346803106995178939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 894
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203dd82baa1ed68c0800000000000000
+      internalID: -4004296370406173950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 894
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2585ecd66bc6320800000000000000
+      internalID: 2552615671541813940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 894
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48603fe2aef9df950800000000000000
+      internalID: 6484514866642224772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 894
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df38289f9658b980800000000000000
+      internalID: -8522967051346100271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 894
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063491fa82410b4d0800000000000000
+      internalID: -3120972376798837920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 894
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b331885005b162c0800000000000000
+      internalID: -4440068744521108554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 893
+        width: 34
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d1d0830aa7d23b0800000000000000
+      internalID: -5535633538414731889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 897
+        width: 29
+        height: 79
+      alignment: 9
+      pivot: {x: 0.4379233, y: 0.4896904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50248d3bc6a1c70f0800000000000000
+      internalID: -1117989553318641147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 906
+        width: 31
+        height: 68
+      alignment: 9
+      pivot: {x: 0.47476473, y: 0.41781482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1b22a4587292270800000000000000
+      internalID: 8226149647796842995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 897
+        width: 31
+        height: 79
+      alignment: 9
+      pivot: {x: 0.45565894, y: 0.46868125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d31b6c7608587240800000000000000
+      internalID: 4789674988588962769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 892
+        width: 34
+        height: 92
+      alignment: 9
+      pivot: {x: 0.4353135, y: 0.4581657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8f07baa9c113200800000000000000
+      internalID: 157938912561527020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 894
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40a5cd23750f73d0800000000000000
+      internalID: -3206838417417199537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 894
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b724664fcd87f2ef0800000000000000
+      internalID: -130752973781974405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 894
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05f9d854df122840800000000000000
+      internalID: 5197751916823180554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 778
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5615c1bc19bb84040800000000000000
+      internalID: 4632158451602837861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 778
+        width: 57
+        height: 84
+      alignment: 9
+      pivot: {x: 0.3772, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af52dfefd1c733db0800000000000000
+      internalID: -4813367108455029254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 778
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e68cd02d80b5570800000000000000
+      internalID: 8456362423585631837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 647
+        width: 49
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5612, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fc88ec054ecd7c0800000000000000
+      internalID: -4045107329571958929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 647
+        width: 67
+        height: 84
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64dcbbf0f50b8490800000000000000
+      internalID: -7743088601759689620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 647
+        width: 49
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5612, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ed33ad86e599f50800000000000000
+      internalID: 6888640909470326389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 133
+        width: 43
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27782b752d2106760800000000000000
+      internalID: 7448974478294550386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 133
+        width: 47
+        height: 84
+      alignment: 9
+      pivot: {x: 0.54255, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75804ec93a92d200800000000000000
+      internalID: 203394506249241980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 133
+        width: 49
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5612, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb82108fb53bb7810800000000000000
+      internalID: 1764200886629902523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 133
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2938eb4c3324d15a0800000000000000
+      internalID: -6549005493015247982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 45
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4805687, y: 0.50000036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b916af81ce3daaa0800000000000000
+      internalID: -6148188915231221326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 5
+        width: 46
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5443535, y: 0.4676146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99951a03e9e775e40800000000000000
+      internalID: 5645119875818019225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 5
+        width: 44
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5447395, y: 0.38941854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10811fae5704c3280800000000000000
+      internalID: -9062297474979260415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 127
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999b01b51b04d6c60800000000000000
+      internalID: 7812972059038890393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 127
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307b2367632f101e0800000000000000
+      internalID: -2233237624473864445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 133
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f2b08e0542c9310800000000000000
+      internalID: 1413044312996523788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 127
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c88131eda59a36e0800000000000000
+      internalID: -1857007322296907579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenSpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 133
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaee7d88f9cd487c0800000000000000
+      internalID: -4069885585482322258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7ec6874d826383748ba63cf017f9d713
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

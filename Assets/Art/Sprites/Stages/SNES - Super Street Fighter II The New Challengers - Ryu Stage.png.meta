@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: fbbd636d07b5ce044b557db481c7e8af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6814832461964270283
+    second: SNES - Super Street Fighter II The New Challengers - Ryu Stage_0
+  - first:
+      213: 6935037688389918579
+    second: SNES - Super Street Fighter II The New Challengers - Ryu Stage_1
+  - first:
+      213: -5227564846671329136
+    second: SNES - Super Street Fighter II The New Challengers - Ryu Stage_2
+  - first:
+      213: -3138296431983074603
+    second: SNES - Super Street Fighter II The New Challengers - Ryu Stage_3
+  - first:
+      213: 310723105645853365
+    second: SNES - Super Street Fighter II The New Challengers - Ryu Stage_4
+  - first:
+      213: 7746336848564975304
+    second: SNES - Super Street Fighter II The New Challengers - Ryu Stage_5
+  - first:
+      213: -6330722890844295702
+    second: SNES - Super Street Fighter II The New Challengers - Ryu Stage_6
+  - first:
+      213: -6528348741908569797
+    second: SNES - Super Street Fighter II The New Challengers - Ryu Stage_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Ryu Stage_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 553
+        width: 512
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535a1dc7bf9dc61a0800000000000000
+      internalID: -6814832461964270283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Ryu Stage_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 454
+        width: 511
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f5d60c8043e3060800000000000000
+      internalID: 6935037688389918579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Ryu Stage_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 377
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09806d10875f377b0800000000000000
+      internalID: -5227564846671329136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Ryu Stage_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 369
+        width: 275
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2e5c3c5088274d0800000000000000
+      internalID: -3138296431983074603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Ryu Stage_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 369
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baf68fa409ef4400800000000000000
+      internalID: 310723105645853365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Ryu Stage_5
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 393
+        width: 77
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6fb396254808b60800000000000000
+      internalID: 7746336848564975304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Ryu Stage_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 512
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedaac78211c428a0800000000000000
+      internalID: -6330722890844295702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
